@@ -42,5 +42,5 @@ def Prime_Factors(num):
 num=input("please enter the number you want to learn all prime factors.\n")
 
 b=Prime_Factors(int(num))	
-print(b)
+print(f"Prime Factors of {num} is : \n{b}")
 	
