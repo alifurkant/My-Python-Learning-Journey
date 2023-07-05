@@ -1,4 +1,4 @@
-# Some of my Python projects improve my skills
+# Some of my Python projects to improve my skills
 
 1-nth-decimal-of-pi-with-series: Calculates pi with Nilkantha's series then finds the decimal point that entered.
 input: 1     output:1   (3,14...)
